@@ -2,7 +2,7 @@
 
 Online invoicing for Czech freelancers and small companies: invoices, payment tracking, expenses, stock and contacts in one place. Live at [fakturca.cz](https://fakturca.cz), used by paying customers.
 
-I am a co-owner and the main developer. This repository is a case study. The source code belongs to the company and is private.
+I am the main developer. This repository is a case study. The source code belongs to the company and is private.
 
 ![Dashboard with yearly turnover, overdue and unpaid invoices](docs/dashboard.png)
 
